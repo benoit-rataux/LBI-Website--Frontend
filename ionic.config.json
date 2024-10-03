@@ -1,0 +1,7 @@
+{
+  "name": "LBI-Website--Frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
